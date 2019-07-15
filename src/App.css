@@ -115,6 +115,7 @@
 
 .homeButtons__touchdown,
 .homeButtons__fieldGoal,
+.homeButtons__quarter,
 .awayButtons__touchdown,
 .awayButtons__fieldGoal {
   margin: 1rem;
